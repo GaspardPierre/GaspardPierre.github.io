@@ -1,4 +1,4 @@
-﻿# **Politique de Confidentialité** 
+﻿# ** GTPCODECOPILOT Politique de Confidentialité** 
 1. ### **Usage Personnel Uniquement**
    Cette application est conçue pour un usage personnel exclusif. 
    Elle n'est pas destinée à être utilisée par d'autres personnes, et en conséquence, aucune donnée personnelle d'autres utilisateurs n'est collectée, stockée ou traitée.
